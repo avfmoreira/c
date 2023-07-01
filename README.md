@@ -1,4 +1,4 @@
-#C exercises
+# C exercises
 
 [Temperature converter](https://github.com/avfmoreira/c/blob/main/temperature_converter/temperature_converter.c) 
 
